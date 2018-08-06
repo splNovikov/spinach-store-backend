@@ -1,0 +1,19 @@
+{
+  "name": "spincah-store-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
